@@ -1,7 +1,7 @@
 <?php
-$host='sql202.byethost3.com';
-$user='b3_20728890';
-$pass='18y9hqtg';
+$host='https://sheltered-escarpment-97581.herokuapp.com';
+$user='preetamkjoshi';
+$pass='';
 $conn=mysql_connect($host,$user,$pass);
 $Tm500ml=1;
 $Sm500ml=2;

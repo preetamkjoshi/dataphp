@@ -1,7 +1,7 @@
 <?php
- define('HOST','sql202.byethost3.com');
- define('USER','b3_20728890');
- define('PASS','18y9hqtg');
+ define('HOST','https://demand-preetamlakhan.c9users.io:3306');
+ define('USER','preetamkjoshi');
+ define('PASS','');
  define('DB','b3_20728890_demand');
  
  $con = mysqli_connect(HOST,USER,PASS,DB) or die('Unable to Connect'); 
@@ -11,7 +11,7 @@
  $datede = new DateTime($datee);
 $datefind=$datede->format('Y-m-d');    
 
-$sql = "SELECT * FROM demandenteryrt where Date='$datefind'";
+$sql = "SELECT * FROM demandenteryrt where Date='2017-09-29'";
  
  $json=array();
  $r = mysqli_query($con,$sql);
