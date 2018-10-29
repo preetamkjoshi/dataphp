@@ -1,4 +1,4 @@
-
+]
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -7,7 +7,7 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 IDE Edit!
+Hi there! Welcome to Cloud9 joshi!
 
 To get you started, we have created a small hello world application.
 
