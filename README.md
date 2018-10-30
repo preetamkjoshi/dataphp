@@ -7,7 +7,8 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Preetam!
+
+Hi there! Welcome to Cloud9 joshi!
 
 To get you started, we have created a small hello world application.
 
